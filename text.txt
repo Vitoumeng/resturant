@@ -1,0 +1,92 @@
+// Home
+.home__subtitle
+Restaurant
+
+.home__title
+We Serve <br> Delicious Food
+
+.home__description
+Keep it easy with these simple but delicious recipes From make-ahead lunches and midweek meals to fuss-free sides.
+
+.home__btn
+Get Started
+
+//About
+
+.section__title
+
+About <span> Us </span>
+
+.about__description
+Keep healthy readly available. When you get hungry. you're more likely to eat the first thing you see on the counter. Keep healthy food readly available. When you get hungry, you're more likely to eat the first thing you see on the counter. Keep healthy food readly available.
+
+.about__btn
+View More
+
+// Most Popular Food
+.section__title
+Most Popular <span>Food</span>
+
+.popular__card-title
+Breakfast Food 
+Lunch Food
+Dinner Food
+
+.popular__card-btn
+Add to cart
+
+.popular__card-rate
+
+.popular__card-price
+$5.99
+$9.99
+$13.99
+
+// Food Menu
+.section__title__title
+Food Menu <span>Today</span>
+
+.menu__card-title
+Chicken Burger
+Beef Burger
+Chicken Fry Pack
+
+.menu__card-description
+Tasty Food
+
+.menu__card-price
+$5.99
+$9.99
+$10.99
+$13.99
+$19.99
+$19.99
+
+.menu__card-cart
+
+
+// Services
+.section__title
+Our <span>Services</span>
+
+.services__card-title
+Order 
+Shipping
+Delivered
+
+.services__card-description
+There are many variations of passages of Lorem Isum aviable but majority have suffered alteration injected humour
+
+// Why Choose Our Food
+.section__title
+Why Choose Our Food
+
+.choose__card-title
+Quality Food
+Super Taste
+Fast Delivery
+
+.choose__card-description
+Keep healthy food readly available. When you get hungry. you're more likely to eat. 
+
+// Contact
