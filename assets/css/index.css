@@ -358,10 +358,9 @@ img {
 
 .new__card {
   position: relative;
-  background-color: #fff;
-  border-radius: 0.25rem;
+  background-color: transparent;
+  border-radius: 0.75rem;
   padding: 0.25rem;
-  border: 2px solid transparent;
   transition: 0.4s;
 }
 
@@ -369,6 +368,7 @@ img {
   width: 100%;
   padding: 1.5rem 3rem;
   align-items: center;
+  transition: .4s;
 }
 
 .new__img {
@@ -377,6 +377,7 @@ img {
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+  transition: .4s;
 }
 
 .new__data {
@@ -434,7 +435,7 @@ img {
 }
 
 .new__card:hover {
-  border: 2px solid var(--first-color);
+  background-color: #f9f9f9;
 }
 /* Services */
 .services__container {
@@ -444,7 +445,7 @@ img {
 
 .services__card {
   background-color: transparent;
-  border-radius: 0.25rem;
+  border-radius: 0.75rem;
   padding: 2rem;
   transition: 0.4s;
 }
@@ -476,7 +477,7 @@ img {
 }
 
 .services__card:hover {
-  background: #fff;
+  background: #f9f9f9;
   box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
 }
 
@@ -550,8 +551,8 @@ img {
 
 .contact__input:is(:hover, :focus-visible),
 .contact__input:not(:placeholder-shown).contact__input:not(:focus) {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(100, 100, 100, 0.1);
+  background-color: #f9f9f9;
+  box-shadow: 0 1px 2px rgba(100, 100, 100, 0.05);
 }
 
 .contact__input::placeholder {
