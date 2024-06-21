@@ -255,7 +255,8 @@ img {
 
 /* Scroll Header */
 .scroll-header {
-  background-color: #fefefe;
+  background-color: #f6f6f6;
+  box-shadow: 0 1px 3px rgba(100, 100, 100, 0.05);
 }
 
 /* Home */
@@ -804,7 +805,9 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
-
+  .nav{
+    height: calc(var(--header-height) + 1rem);
+  }
   .nav__list {
     flex-direction: row;
     column-gap: 2.5rem;
